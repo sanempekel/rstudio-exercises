@@ -1,1 +1,1 @@
-# studio-exercises
+# rstudio-exercises
